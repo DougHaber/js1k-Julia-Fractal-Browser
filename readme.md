@@ -4,11 +4,13 @@ JS1k 2013 Spring competition.
 
 ## Links
 
-**Live entry:** http://js1k.com/2013-spring/demo/1509
+**Live entry:**  Run the application here:
 
-**Blog post:** http://localhost:8000/blog/posts/2015-08-05-JS1k-Julia-Fractal_Browser_Explained.html
+http://js1k.com/2013-spring/demo/1509
 
-**GitHub:** https://github.com/leshylabs/js1k-Julia-Fractal-Browser
+**Blog post:**  An explanation of how this was written, and how it works:
+
+http://www.leshylabs.com/blog/posts/2015-08-05-JS1k-Julia-Fractal_Browser_Explained.html
 
 ## License
 
