@@ -2,7 +2,7 @@
    Written for the 2013 Spring JS1k Competition
 
    Live entry: http://js1k.com/2013-spring/demo/1509
-   Blog post: http://localhost:8000/blog/posts/2015-08-05-JS1k-Julia-Fractal_Browser_Explained.html
+   Blog post: http://www.leshylabs.com/blog/posts/2015-08-05-JS1k-Julia-Fractal_Browser_Explained.html
    GitHub: https://github.com/leshylabs/js1k-Julia-Fractal-Browser
 
    Copyright (C) 2013 Douglas Haber
