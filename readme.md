@@ -2,15 +2,17 @@ This repository contains the source code for a tiny Julia fractal
 browser with stripe average coloring.  The program was written for the
 JS1k 2013 Spring competition.
 
-*Live entry:* http://js1k.com/2013-spring/demo/1509
+## Links
 
-*Blog post:* http://localhost:8000/blog/posts/2015-08-05-JS1k-Julia-Fractal_Browser_Explained.html
+**Live entry:** http://js1k.com/2013-spring/demo/1509
 
-*GitHub:* https://github.com/leshylabs/js1k-Julia-Fractal-Browser
+**Blog post:** http://localhost:8000/blog/posts/2015-08-05-JS1k-Julia-Fractal_Browser_Explained.html
 
-Copyright (C) 2013 Douglas Haber
+**GitHub:** https://github.com/leshylabs/js1k-Julia-Fractal-Browser
 
-All rights reserved
-
+## License
 
 Available under a BSD license, found in the directory.
+
+Copyright (C) 2013 Douglas Haber
+All rights reserved
