@@ -14,5 +14,4 @@ JS1k 2013 Spring competition.
 
 Available under a BSD license, found in the directory.
 
-Copyright (C) 2013 Douglas Haber
-All rights reserved
+Copyright (C) 2013 Douglas Haber, All rights reserved
