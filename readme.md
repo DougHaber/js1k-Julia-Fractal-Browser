@@ -20,7 +20,6 @@ Technically this might not be stripe average coloring. Shortcuts were
 taken to make it fit in 1k. It is somewhat close though.
 
 JSCrush was used to get down to the 1k limit.
-</pre>
 ```
 
 
