@@ -27,7 +27,7 @@ JSCrush was used to get down to the 1k limit.
 
 ## Links
 
-**Live entry:**  Run the application here:
+**Live Demo:**  Run the application here:
 
 http://js1k.com/2013-spring/demo/1509
 
