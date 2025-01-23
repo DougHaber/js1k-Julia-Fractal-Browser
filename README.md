@@ -4,6 +4,9 @@ JS1k 2013 Spring competition.
 
 Please keep in mind that this was written for a code golfing competition. That means the objective is to make the code as small as possible while still functioning, with no regard for writing it cleanly. Many of the techniques and styles found here should not be used when writing code that needs to be maintained.
 
+![example 1](images/example1.jpg)
+![example 2](images/example2.jpg)
+
 ## Description
 
 ```
